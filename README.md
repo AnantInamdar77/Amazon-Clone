@@ -22,7 +22,7 @@ Since this project is static, you can easily view it by following these steps:
    ```bash
    git clone https://github.com/yourusername/Amazon-Clone.git
 2. Navigate to the project directory:
-bash
-cd amazon-clone
+    ```bash
+    cd amazon-clone
 
 3.Open index.html in your web browser.
