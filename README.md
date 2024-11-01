@@ -1,23 +1,23 @@
-# Amazon UI Clone
+# Amazon Clone
 
-A basic clone of the Amazon website homepage, built with HTML and CSS to replicate the look and feel of Amazon's main user interface.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-
-## Project Overview
-
-This project is a front-end UI clone of the Amazon website. It replicates Amazon's main layout and styling to practice basic web development skills using HTML and CSS. It is designed for educational purposes and does not include any back-end functionality.
+This repository contains a simple static clone of the Amazon website, created using only HTML and CSS. The project showcases a basic e-commerce layout, including product listings, a shopping cart interface, and a responsive design.
 
 ## Features
 
-- Responsive design that adapts to different screen sizes.
-- Simulates Amazon's header, navigation bar, and product display layout.
-- Basic hover effects and dropdowns for a realistic user experience.
+- **Responsive Design**: The layout adapts to different screen sizes for mobile and desktop views.
+- **Product Listings**: Display of products with images, titles, and prices.
+- **Navigation Bar**: A functional navigation bar to browse different sections.
+- **Basic Styling**: Clean and modern styling using CSS.
 
 ## Technologies Used
 
-- **HTML5**: Structure of the website.
-- **CSS3**: Styling and layout of the UI elements.
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout design.
 
+## Installation
+
+Since this project is static, you can easily view it by following these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Amazon-Clone.git
